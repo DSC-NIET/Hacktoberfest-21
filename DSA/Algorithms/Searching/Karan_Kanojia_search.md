@@ -23,7 +23,7 @@ def binarySearch (arr, l, r, x):
         # Element is not present in the array
         return -1
  
-arr = [ 2, 3, 4, 10, 40 ]
+arr = [ 2, 3, 4, 10, 40 ] #array_taken_for_Example
 x = 10
  
 # Function call
