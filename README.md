@@ -1,2 +1,2 @@
 # Hacktoberfest-21
-This repository is to invite PRs for Hacktoberfest.
+This repository is for inviting PRs for Hacktoberfest'21.
